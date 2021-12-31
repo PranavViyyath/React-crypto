@@ -29,9 +29,9 @@ const filterCoin=coins.filter(coin=>
 
 
   return (
-    <div className="App">
+    <div className="coin-app">
       
-      <h1 className="App-header">Crypto </h1>
+      <h1 className="app-header">Crypto </h1>
       <div className='search-coin'>
         <h2 className='coin-search'>Seach here</h2>
         <form className='coin-form'>
